@@ -1,0 +1,78 @@
+body
+{
+  background-color: #e6e6ff;
+}
+.header-name
+{
+  text-align:left;
+  font-size: 40px;
+  font-family:serif;
+  font-style: oblique,bold;
+  margin-left:25px;
+  margin-right:25px;
+  border-radius:10px;
+  border: 10px;
+  background-color:linen;
+}
+.header-img
+{
+  margin-left: 25px;
+  margin-right: 25px;
+  border-radius: 20px;
+  border:20px;
+  padding-left: 25px;
+  background-color: linen;
+}
+.header-occ
+{
+ text-align: left;
+ font-size: 20px;
+ font-family: serif;
+ font-style: italic;
+ margin-left: 25px;
+ margin-right: 25px;
+ border: 10px;
+ border-radius: 20px;
+ background-color: linen;
+}
+.header-Contact
+{
+  font-size: 20px;
+  font-family: serif;
+  font-style: normal;
+  margin-left: 25px;
+  margin-right: 25px;
+  border: 20px;
+  border-radius: 25px;
+  background-color: linen;
+}
+.head
+{
+  font-size: 25px;
+  font-family: serif;
+  font-style: normal;
+  margin-left: 25px;
+  margin-right: 25px;
+  border: 20px;
+  border-radius: 25px;
+  background-color: linen;
+}
+.p1
+{
+  text-align: center;
+  font-size: 20px;
+  font-family: serif;
+  background-color: linen;
+  border-radius: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.t1
+{
+  align-self: center;
+  font-size: 20px;
+  background-color: linen;
+  margin-left: 25px;
+  margin-right: 25px;
+  border-radius: 20px;
+}
